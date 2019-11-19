@@ -8,8 +8,5 @@ e1
 master
 8
 9
-<<<<<<< HEAD
-12
-=======
 10
->>>>>>> parent of 495f5ec... add 11
+11
